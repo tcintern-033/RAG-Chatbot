@@ -1,4 +1,4 @@
-# RAG Retrieval-Augmented Generation Chatbot
+# Chatbot with RAG Pipeline
 
 ## Description
 
