@@ -1,0 +1,5 @@
+CHROMA_PATH = "./chroma_db"
+COLLECTION_NAME = "rag_documents"
+DEFAULT_TOP_K = 4
+CHUNK_SIZE = 800
+CHUNK_OVERLAP = 50
